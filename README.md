@@ -2,10 +2,9 @@
 
 This repository contains my completed tasks as part of the Python Development Internship at **ShadowFox**.
 
----
 
 ## ✅ Task 1:
-### Code file:va
+### Code file:task1.py
 ### 1.Variables
 
 ### What I Did:
@@ -52,8 +51,6 @@ Added new heroes, moved members to new positions.
 Replaced the full team with new members.
 
 Sorted the list and identified the new leader alphabetically.
-
-
 
 ### Concepts Covered:
 
